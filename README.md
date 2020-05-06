@@ -10,6 +10,12 @@ This project focuses on the prediction of students' academic performance using a
 
 The dataset has been converted to a csv file and prediction is done using a standard Python-based toolkit, rather than WEKA, which is used in the original paper.
 
+Utilized packages:
+* pandas
+* scikit-learn
+* seabornplot
+* jupyter notebooks
+
 The features, along with brief descriptions, are extracted from [1] in the following image:
 ![feature_description](https://user-images.githubusercontent.com/22644005/81178959-aa750300-8fb1-11ea-83a7-b0550e83dc65.png)
 
