@@ -1,5 +1,11 @@
 # Project Description
 
+## Contact Details
+
+Student: Αλέξανδρος Ζερβόπουλος (ΠΜΕ201905)
+
+## Description
+
 This project focuses on the prediction of students' academic performance using a public dataset acquired from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/Student+Academics+Performance), which was originally presented in [1].
 
 The dataset has been converted to a csv file and prediction is done using a standard Python-based toolkit, rather than WEKA, which is used in the original paper.
